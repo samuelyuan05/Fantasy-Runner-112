@@ -1,0 +1,9 @@
+Jay,100
+Brandy,400
+Nancy,300
+Molly,200
+samuel, 0
+Samuel Y, 13
+s, 1
+s, 4
+s, 9
